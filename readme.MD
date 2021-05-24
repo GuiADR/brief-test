@@ -20,7 +20,7 @@ $path_folder composer install
 
 
 
-## Endpoints
+## ⚙ Endpoints
 
 >Create a member => **[POST]** wp-json/api/member
 >```json
@@ -54,8 +54,7 @@ $path_folder composer install
 >```json
 >//no body
 >```
-><br>
-## Archive page
+## 📦 Archive page
 - Automatically generated, the link is **/teams-members**
   - You still have to go to settings, permalinks, check the post name and save
 - The table with the members follows the pattern of the theme of appearance of the site
